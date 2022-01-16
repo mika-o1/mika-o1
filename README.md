@@ -22,7 +22,7 @@ You can reach me at the email in my github profile. Follow my socials!
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github.com/mika-o1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.mika-o1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
