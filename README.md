@@ -8,7 +8,7 @@ I am mainly learning to write in Python, since 2021 and learning other web frame
 | Language      | Proficiency                             |
 | ------------- | ----------------------------------------|
 | English       | Beginner                                |
-| Russian       | Native language                         |
+| Russian       | In excellence language                  |
 | Qazaq         | Native language                         |
 
 ### Web technologies
