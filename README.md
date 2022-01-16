@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mika Orazkhanova
 
-I am a process engineer currently working at [https://www.railways.kz/] (KTZH).
+I am a process engineer currently working at JSC "NC Kazakhstan Temir Zholy".
 I am mainly learning to write in Python, since 2021 and learning other web frameworks.
 
 ### Languages 🌐
