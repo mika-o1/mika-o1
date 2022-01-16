@@ -16,5 +16,6 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Mika on Instagram" title="Follow Mika on Instagram"/>](https://instagram.com/mika_o1)
-
+[<img src="![image](https://user-images.githubusercontent.com/96731583/149676970-5d0c0201-3160-4364-abe2-6ca59f2f5cf9.png)
+" height="40em" align="center" alt="Follow Mika on Dicord" title="Follow Mika on Dicord"/>](https://discord.com/channels/@me)
 
