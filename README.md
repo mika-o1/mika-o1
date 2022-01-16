@@ -20,3 +20,20 @@ You can reach me at the email in my github profile. Follow my socials!
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Mika on Instagram" title="Follow Mika on Instagram"/>](https://instagram.com/mika_o1)
 
 
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+ (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/iclipdates/">On a date with Interclip (published on January 31, 2021)</a>
+
+Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
+* [Brian Douglas](https://github.com/bdougie) 
+* [Kyle Daigle](https://github.com/kdaigle)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
